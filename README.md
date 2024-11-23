@@ -1,5 +1,5 @@
-#Aryan Rai
-#590015527
+# Aryan Rai
+# 590015527
 # Expense-calculator
 ![](I1.png)
 This Python code defines a simple Expense Tracker application using the Tkinter library for the graphical user interface (GUI) and Pandas for data handling. The application allows users to record, view, and delete expense entries in a structured format.
